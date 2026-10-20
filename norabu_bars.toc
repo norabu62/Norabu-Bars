@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: norabu_bars
+## Notes: Dark classic-strip backdrops, per-bar opacity and optional button effects for the action bars, bag bar and micro menu. /nb for options.
+## Author: norabu
+## Version: 0.1.0
+## SavedVariables: NorabuBarsDB
+
+Core.lua
+Backdrop.lua
+Buttons.lua
+EditMode.lua
+Options.lua
