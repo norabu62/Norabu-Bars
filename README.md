@@ -2,7 +2,8 @@
 
 Dark-mode action bars for the World of Warcraft Classic client: a dark backdrop with the classic framed slots behind every bar, per-bar opacity, and a few optional button effects.
 
-*(Add a screenshot here, for example `docs/screenshot.png`.)*
+<img width="549" height="199" alt="image" src="https://github.com/user-attachments/assets/f229b00a-00a9-483c-a346-074e585f71e5" />
+
 
 ## What it does
 
